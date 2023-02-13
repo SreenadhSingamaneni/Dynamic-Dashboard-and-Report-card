@@ -1,7 +1,9 @@
 # Dynamic Dashboard and Report card
 
-# This Project is done while im working as a Full Stack Developer at Blackbuck Engineers Pvt Ltd. 
-# As it is Confidential i cannot share the code instead im providing the link of the project
+# Disclaimer 
+
+This Project is done when im working as a Full Stack Developer at Blackbuck Engineers Pvt Ltd. 
+As it is Confidential i cannot share the code instead im providing the link of the project
 
 # ABOUT 
 
@@ -26,4 +28,5 @@ Here by im sharing the sample screenshots related to the project:
 
 <img width="1440" alt="report card 1-2" src="https://user-images.githubusercontent.com/90785315/218445443-459c1f03-6632-4f6b-8a61-343c2db2b0f6.png">
 <img width="1440" alt="report card 2-2" src="https://user-images.githubusercontent.com/90785315/218445454-6f951f8c-6183-4e7c-b462-529b59f703cd.png">
+
 
